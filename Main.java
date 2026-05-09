@@ -127,4 +127,4 @@ public class Main extends JFrame {
         SwingUtilities.invokeLater(() -> new Main().setVisible(true));
     }
 }
-//BY WBlackTL. LICENSE IN THIS PROJECT : MulanPSL GPL LGPL AGPL MIT Apache2.0 MPL MsPL EPL SSPL MulanPubL CC0 CCBY CCBYNC CCBYNCSA CCBYNCND
+//BY WBlackTL. LICENSE IN THIS PROJECT : BSD 3 Clause
