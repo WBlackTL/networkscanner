@@ -59,7 +59,7 @@ public class NetworkScanner extends JFrame {
         JMenu aboutMenu = new JMenu("About");
         JMenuItem aboutItem = new JMenuItem("About");
         aboutItem.addActionListener(e -> JOptionPane.showMessageDialog(
-                this, "Network Scanner\nCopyright © 2026 WBlackTL\nLicense: BSD 3-Clause", 
+                this, "Network Scanner\nCopyright © 2026 WBlackTL\nLicense: MSRL", 
                 "About", JOptionPane.INFORMATION_MESSAGE));
         aboutMenu.add(aboutItem);
         menuBar.add(aboutMenu);
